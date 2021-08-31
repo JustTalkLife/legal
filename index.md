@@ -1,37 +1,151 @@
-## Welcome to GitHub Pages
+**TERMS OF SERVICE**
 
-You can use the [editor on GitHub](https://github.com/JustTalkLife/legal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+THIS TERMS OF SERVICE AGREEMENT (&quot;AGREEMENT&quot;) IS A LEGAL AND BINDING AGREEMENT BETWEEN YOU (&quot;YOU,&quot; &quot;YOUR&quot; OR &quot;YOURSELF&quot;) AND JUST TALK LIFE (&quot;OUR,&quot; &quot;US,&quot; &quot;WE&quot; OR &quot;JUST TALK LIFE&quot;), INCLUDING THE PARENT COMPANY JUST TALK LIFE, LLC, WHICH GOVERNS YOUR USE OF OUR INTERNET-BASED SERVICES, INCLUDING OUR WEBSITE [[www.Justtalklife.com](http://www.Justtalklife.com/)], MOBILE APPLICATION AND ONLINE ERVIES OFFRED THROUGH THE JUST TALK LIFE PLATFORM, TOGETHER WITH ALL INFORMATION, CONTENT, PRODUCTS, MATERIALS AND SERVICES MADE AVAILABLE TO YOU THROUGH THE SAME BY US AND/OR THIRD PARTIES (COLLECTIVELY, &quot;THE SERVICE&quot;). PLEASE READ THIS AGREEMENT CAREFULLY PRIOR TO USING THE SERVICE. BY REGISTERING FOR, USING OR OTHERWISE ACCESSING THE SERVICE, OR ANY COMPONENT THEREOF, IN ANY MANNER WHATSOEVER, YOU ARE CONSENTING TO BECOME A PARTY TO THIS AGREEMENT AND AGREEING TO BE BOUND BY AND COMPLY WITH THE TERMS AND CONDITIONS HEREIN. IF, FOR ANY REASON, YOU DO NOT OR ARE UNABLE TO ACCEPT AND AGREE TO ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT, PLEASE DISCONTINUE THE REGISTRATION PROCESS AND DO NOT ACCESS OR USE THE SERVICE IN ANY MANNER.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When we refer to the &quot;use&quot; of the Service in this Agreement, we mean any actual or attempted access or use of the Service, including, without limitation, any transmission, exchange of information or communication associated with the Service. These terms and conditions, together with any other terms of use applicable to other Just Talk Life, LLC owned or controlled websites and any other policies, rules and provisions which are described, linked or otherwise referred to and form a part of this Agreement, including, without limitation our [**Privacy Policy**](http://www.sequoia.com/legal/privacy/) constitute the entire agreement between you and us, superseding any and all prior or inconsistent understandings, representations or agreements regarding the Service.
 
-### Markdown
+**1. ACCESS TO THE SERVICE**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Subject to certain limitations as described herein, you are granted the right to access our text, files, images, photos, video, sounds, works of authorship, applications, surveys or any other materials (collectively, &quot;Content&quot;) under certain terms and conditions as set forth in this Agreement. In order to use the Service, you must obtain access to the Internet and pay any service fees associated with such access. In addition, you must provide all equipment necessary to make such connection to the Internet and to be able to access any Content. Use of and access to some Content may be subject to additional fees and/or restrictions. Certain areas and functions of the Service may also require registration.
 
-```markdown
-Syntax highlighted code block
+**2. ACCEPTING THE TERMS OF SERVICE AGREEMENT**
 
-# Header 1
-## Header 2
-### Header 3
+You affirm that you are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Agreement, and to abide by and comply with this Agreement. In any case, you affirm that you are over the age of 13, as the Service is not intended for children under 13. If you are under 13 years of age, then please do not use the Service.
 
-- Bulleted
-- List
+**3. PRIVACY POLICY**
 
-1. Numbered
-2. List
+Just Talk Life takes your privacy seriously and operates under the policies and principles outlined in its **Privacy Policy** , which contains important information and disclosures relating to the collection and use of your personally identifiable information in connection with your use of the Service.
 
-**Bold** and _Italic_ and `Code` text
+**4. SERVICE OPERATION**
 
-[Link](url) and ![Image](src)
-```
+Just Talk Life will make reasonable efforts to keep the Service operational. However, certain technical difficulties, routine site maintenance/upgrades and any other events outside the control of Just Talk Life may, from time to time, result in temporary Service interruptions. Just Talk Life also reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, functions of the Service with or without notice. You agree that Just Talk Life shall not be liable to you or to any third party for any of the direct or indirect consequences of any modification, suspension, discontinuance of or interruption to the Service.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**5. GUIDELINES**
 
-### Jekyll Themes
+By using the Service, you agree that you will not attempt to, or encourage or assist any other person to, circumvent or modify any content protection methods.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustTalkLife/legal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You may not use or allow others to use the Service, directly or indirectly, nor upload, distribute, transmit, communicate, link to, publish or access any data, information or material through, using or otherwise in connection with the Service, that: (a) is libelous, defamatory, vulgar or obscene, pornographic, sexually offensive or explicit, harmful or harassing, threatening, hateful, racially, culturally, ethnically or otherwise objectionable or offensive, discriminatory or abusive; (b) violates any law or regulation or the rights of others; (c) causes duress, distress or discomfort to another or is likely to deter or discourage others from using the Service; and/or (d) infringes any intellectual property, proprietary rights or confidentiality obligations of others. You are solely responsible and liable for any such activity, behavior, use and conduct. We have no liability and you bear the sole and exclusive risk associated with use of or reliance on the accuracy, quality, completeness, reliability or usefulness of any data, information or material in connection with the Service. You also may not use, nor allow others to use, the Service, directly or indirectly, for the following: (x) attempt to or actually disrupt, impair or interfere with, alter or modify the Service or any Content posted and/or displayed by us or anyone else; (y) act in a way that affects or reflects negatively on us, the Service, or anyone else; (z) collect or attempt to collect any information from others including, without limitation, personally identifiable information, without such party&#39;s prior consent. You agree to comply with all local, state, federal laws, statutes, rules and regulations, as well as any international treaties, which are applicable to your use of the Service. You further agree that you have read and agree to our **community policies**.
 
-### Support or Contact
+You are prohibited from violating or attempting to violate the security of the Service, including, without limitation: (a) accessing data not intended for you or logging onto a processor, communications or access device or account which you are not authorized to access; (b) attempting to probe, scan or test the vulnerability of the Service or to breach security or authentication measures, regardless of your motives or intent; (c) attempting to interfere with or disrupt the Service or service to any user, processor, host or network, including, without limitation, by submitting a virus, worm or Trojan horse; or (d) sending unsolicited e-mail or other information, including promotions or advertising. Violations of system or network security or this Agreement may result in civil or criminal liability. We have the right to investigate occurrences, which may involve such violations and we may involve, provide information to and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You agree not to use the Service for any commercial uses unless you obtain our prior written approval. Such commercial uses include without limitation (i) the sale of access to the Service; and (ii) the sale of advertising, sponsorships, or promotions placed on or within the Service.
+
+**6. THIRD PARTY CONTENT PROVIDERS**
+
+In some cases, Just Talk Life derives its rights to use the Content offered on the Service from third party content owners (&quot;Content Providers&quot;) for fixed periods of time. As well, Just Talk Life is sometimes required to pull certain Content off the Service for legal reasons. Therefore, certain Content offered or advertised by Just Talk Life may not be available when you try to access it, and not all Content is available in all countries or territories. Although Just Talk Life makes every effort to ensure the accuracy of all Content Providers&#39; information, we make no warranty as to the accuracy of any such information.
+
+**7. E-DELIVERY**
+
+By using the Service, you consent to the electronic delivery of all documents and notices regarding your account. You also confirm that you have the ability, necessary equipment and software to access and view any documents or notices we send you. You are entitled to withdraw your consent to electronic delivery at any time by emailing us at support at support@\_\_\_\_\_\_\_\_\_\_\_\_.com. Should you withdraw your electronic delivery consent, you are entitled to receive a paper copy of all required notices and documents. Some notices and documents which we are not required to provide you will not be sent to you should you withdraw your consent to electronic delivery.
+
+**8. INTELLECTUAL PROPERTY RIGHTS**
+
+The Just Talk Life logos and other trademarks are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by Just Talk Life and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner
+
+The Content available through the Service is the property of Just Talk Life or its Content Providers and is protected by copyright and other intellectual property laws. Content received through the Service may be accessed for your personal, non-commercial use only.
+
+You acknowledge that Just Talk Life retains exclusive ownership of the Service and all intellectual property rights associated therewith. The Service contains proprietary and confidential information that is protected by copyright laws and international treaty provisions. Except as expressly provided herein, you are not granted any rights or license to patents, copyrights, trade secrets or trademarks with respect to the Service or the Content, and Just Talk Life reserves all rights not expressly granted hereunder.
+
+You may not do the following:
+
+- Frame or mirror any part of the Service without our express prior written consent.
+- Create a database by systematically downloading and storing all or any Content.
+- Copy, reproduce, transfer or access (except as expressly authorized by this Agreement), re-license, reverse engineer, decompile, disassemble, translate, publish, transmit, distribute, display, broadcast, re-broadcast, redistribute, modify, create derivative works from, capture or store in any physical media, market, rent, sell, lease, sublicense, or participate in any sale of or exploit in any way, in whole or in part, directly or indirectly, the Service or any related software.
+- Use any robot, spider, rover, scraper, offline readers, site search/retrieval applications or any other data mining technology or automatic or manual process, system or software to monitor, cache, frame, mask, extract data from, copy or distribute the Content (except as may be a result of standard search engine or internet browser usage) or circumvent the navigational structure or presentation of the Service, without the express prior written consent of WHI.
+- Bypass any measures Just Talk Life may use to prevent or restrict access to the Service.
+
+You shall promptly notify Just Talk Life in writing upon your discovery of any unauthorized use or infringement of the Service or any Content or Just Talk Life&#39;s patent, copyright, trade secret, trademarks or other intellectual property rights. Except as expressly provided for herein, any copy or use of any portion of the Service shall constitute an act of copyright infringement and a breach of this Agreement. Furthermore, Just Talk Life may in its sole discretion pursue any other available rights or remedies at law or in equity for a violation of this Agreement or such copyright infringement.
+
+**9. DMCA POLICY**
+
+We respect the intellectual property rights of others. If you believe that any of the Content on the Service violates your intellectual property rights (copyright, trademark, patent, trade dress, etc.), please send us a message at copyright@Justtalklife.com. If your dispute is specifically related to an alleged infringement of your copyright rights please visit our **Copyright Policy** page for information on submission of a notice under the Digital Millennium Copyright Act.
+
+**10. REGISTERED USERS**
+
+The Service is intended to provide you with information and community interaction. Registered users may have the ability to follow or import User Generated Content onto the Service and receive a feed or daily or weekly email updates from the Service. Registered Users may also have the ability to contribute the Service.
+
+Just Talk Life may request registration information from you before you may access certain areas of the Service. You will provide Just Talk Life with true, accurate, current and complete information. You will promptly update your registration to keep it accurate, current and complete. If we issue you a username and password, you may not reveal it to anyone else. You may not use anyone else&#39;s username and/or password or allow anyone else to use your username and password to access the Service. You are responsible for maintaining the confidentiality of your accounts, username and passwords, and for any charges, damages, liabilities or losses incurred or suffered as a result of your failure to do so. We are not liable for any harm caused by or related to the theft of your username and/or password, your disclosure of your username and/or password, or your authorization to allow another person to access and use the Service using your username and/or password. Furthermore, you are solely and entirely responsible for any and all activities that occur under your account including any charges incurred relating to the Service. You agree to immediately notify us of any unauthorized use of your username, password or account or any other breach of security. We will not be responsible for any loss or damage that may result if you fail to comply with these requirements. If you choose a username that, in our sole discretion, is obscene, indecent, abusive or which might otherwise subject us to public disparagement or scorn, we reserve the right, without prior notice to you, to automatically change your username, delete your submissions and/or posts from the Service, deny you access to the Service, or any combination of these options.
+
+Just Talk Life features many interactive features allowing users to, among other things, submit or post content (i.e. audio-visual works and written materials) or links to third party content on areas of the Service accessible and viewable by other users of the Service and the public (&quot;User Generated Content&quot;). You represent and agree all User Generated Content or links submitted or posted by you, shall be your sole responsibility, shall not infringe or violate the rights of any other party or violate any laws, contribute to or encourage infringing or otherwise unlawful conduct, or otherwise be obscene, objectionable or in poor taste, and that you have obtained all necessary rights, licenses or clearances required to submit and post any User Generated Content. By submitting or posting any User Generated Content on, through or in connection with the Service, you hereby grant to Just Talk Life a limited license to perpetually, use, modify, delete from, add to, publicly perform, publicly display, reproduce, and distribute such User Generated Content fully-paid and royalty free in all forms and formats of media now know or in the future created, including, without limitation, distributing part or all of the Service and any User Generated Content included therein. You further agree to a waiver of any &quot;moral rights,&quot; or any similar rights to any User Generated Content under any jurisdiction. You retain any rights that you may have in your User Generated Content submitted or posted on through or in connection with the Service, subject to the limited license herein. Just Talk Life reserves the right not to post or publish any User Generated Content, and to delete, remove or edit any User Generated Content, at any time in its sole discretion without notice or liability.
+
+**11. LINKS TO OTHER SITES**
+
+The Service may contain hyperlinks and pointers to other sites on the Internet that may be maintained by third parties (&quot;Other Sites&quot;). If you use the hyperlinks to access these Other Sites, you will leave the Service and your browser will be re-directed to the Other Sites. The Other Sites may have their own terms of service and privacy policy and those Other Sites may have different practices and requirements than the Service. Just Talk Life may not have knowledge of, and is not responsible for, the content, information, websites, products or advertisements presented by any Other Site which you use at your own risk. Just Talk Life does not warrant or make any representation regarding the legality, accuracy, quality or authenticity of content, information, websites or products presented by Other Sites. The hyperlinks to Other Sites do not constitute an endorsement by Just Talk Life of any Other Site(s) or resources, or their content, information, services or products. The Service is only providing these links to you as a convenience. The terms of service and privacy policy of any Other Sites shall apply to your access and use of them. Just Talk Life accepts no responsibility for the content or conduct of Other Sites
+
+Please note that with regard to any content made available on or through the Service which contains or displays a third-party logo (i.e. YouTube, Vimeo, etc.) or which is provided via a third party&#39;s player and is hosted on a third party&#39;s servers; Just Talk Life does not have the ability to permanently remove all or any such content from the third party&#39;s servers. Therefore, if you have a complaint concerning any video content made available on the Service that is provided by a third party, you should contact the third party directly in accordance with copyright policies of the third party. If you believe that your work is available on the Service via a third-party player in a way that constitutes copyright infringement, please: (1) contact the third party directly in accordance with its copyright policies; and (2) contact Just Talk Life by sending us a notice.
+
+As Just Talk Life is a site integrated with the YouTube Data API. You can find a copy of the YouTube terms of services at: https://www.youtube.com/t/terms.
+
+**12. DISCLAIMER OF WARRANTIES**
+
+YOU EXPRESSLY AGREE THAT USE OF AND ACCESS TO THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN &quot;AS IS&quot; AND AN &quot;AS AVAILABLE&quot; BASIS. WE DO NOT MAKE, AND HEREBY DISCLAIM, ANY REPRESENTATIONS OR WARRANTIES REGARDING THE SERVICE, OUR WEBSITE, OUR MOBILE APP AND THE PRODUCTS AND SERVICES OFFERED THROUGH THE SERVICE OR ANY PORTION THEREOF, EXPRESS, IMPLIED OR STATUTORY, INCLUDING (WITHOUT LIMITATION) IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT OF THIRD-PARTY RIGHTS. OR ANY WARRANTIES ARISING BY COURSE OF DEALING OR CUSTOM OF TRADE. WE MAKE NO REPRESENTATION OR WARRANTY THAT ANY MATERIAL, CONTENT, PRODUCTS OR SERVICES DISPLAYED ON OR OFFERED THROUGH THE SERVICE ARE ACCURATE, COMPLETE, APPROPRIATE, RELIABLE, OR TIMELY. WE ALSO MAKE NO REPRESENTATIONS OR WARRANTIES THAT THE SERVICE WILL MEET YOUR REQUIREMENTS AND/OR YOUR ACCESS TO AND USE OF THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE, FREE OF VIRUSES, MALICIOUS CODE, OR OTHER HARMFUL COMPONENTS, OR OTHERWISE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES. ACCORDINGLY, SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+
+WE EXPRESSLY DISCLAIM ANY REPRESENTATIONS OR WARRANTIES THAT YOUR USE OF THE SERVICE WILL SATISFY ANY STATUTORY OR REGULATORY OBLIGATIONS, OR WILL ASSIST WITH, GUARANTEE OR OTHERWISE ENSURE COMPLIANCE WITH ANY APPLICABLE LAWS OR REGULATIONS, INCLUDING WITHOUT LIMITATION HIPPA OR THE GRAMM-LEACH-BLILEY ACT OF 1999. YOU ASSUME ALL RESPONSIBILITY FOR DETERMINING WHETHER THE SERVICE OR THE INFORMATION GENERATED THEREBY IS ACCURATE OR SUFFICIENT FOR YOUR PURPOSES.
+
+**13. LIMITATION OF LIABILITY**
+
+IN NO EVENT SHALL JUST TALK LIFE, ITS CONTENT PROVIDERS, SUPPLIERS, PARTNERS, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICE, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVICE, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR SERVICE BY ANY THIRD PARTY, AND/OR (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT JUST TALK LIFE IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+
+JUST TALK LIFE&#39;S AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY, IN CONNECTION WITH OR ARISING FROM THIS AGREEMENT SHALL NOT EXCEED ONE THOUSAND DOLLARS ($1,000.00 USD), REGARDLESS OF THE THEORY UPON WHICH SUCH LIABILITY IS BASED, WHETHER IN CONTRACT, TORT, EQUITY OR OTHERWISE.
+
+**14. INDEMNITY**
+
+You agree to defend, indemnify and hold us harmless against any losses, expenses, costs or damages (including our reasonable attorneys&#39; fees, expert fees&#39; and other reasonable costs of litigation or proceedings) arising from, incurred as a result of, or in any manner related to any claim or action based upon (a) your breach of, or failure to comply with, the terms and conditions of this Agreement, (b) your use of the Service, and/or (c) the use of the Service by any other person using your username, password and/or account. We may, in our discretion, participate in the defense of any such claim or action and any negotiations for its settlement or compromise. No settlement which may adversely affect our rights or obligations shall be made without our prior written approval. We reserve the right, at our own expense and on notice to you, to assume exclusive defense and control of any such claim or action and then your corresponding indemnification obligation will end.
+
+**15. CHOICE OF LAW AND CONSENT TO JURISDICTION**
+
+The Service is created, operated and controlled by Just Talk Life in the State of Colorado, United States of America. The laws of the State of Colorado will govern this Agreement without giving effect to any principles or conflicts of laws. If you access the Service from a location outside the USA, you are responsible for compliance with all local laws. You agree that you will not use the Service in any country or in any manner prohibited by any applicable laws, restrictions or regulations.
+
+Some of the Service and Content are only intended for persons in those states and jurisdictions where such products and services may legally be offered. Accordingly, the Service shall not be considered a solicitation to buy or an offer to sell any products or services to any person in any jurisdiction where such offer, solicitation, purchase or sale would be unlawful.
+
+YOU AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+**16. DISCLAIMERS &amp; DISCLOSURES**
+
+ADVICE RECEIVED VIA THE SERVICE SHOULD NOT BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION. YOU ACKNOWLEDGE THAT ANY RELIANCE UPON ANY ADVICE, OPINION, STATEMENT, OR OTHER INFORMATION DISPLAYED OR DISTRIBUTED THROUGH THE SERVICE IS AT YOUR SOLE RISK. PRIOR TO MAKING ANY DECISIONS BASED ON INFORMATION POSTED ON THE SERVICE, YOU ARE ADVISED TO VERIFY THE INFORMATION, INDEPENDENTLY. JUST TALK LIFE SHALL NOT HAVE ANY LIABILITY ARISING FROM YOUR ACTS OR DECISIONS BASED UPON THE INFORMATION PROVIDED ON THE SERVICE.
+
+The Service and Content may include inaccuracies or typographical errors. Just Talk Life reserves the right, in its sole discretion and without notice, to correct any errors or omissions in any portion of the Service, or to deny access to the Service to anyone at any time. You acknowledge and agree that Just Talk Life is not responsible for any User Generated Content posted by users of the Service.
+
+When it comes to buying products or services when using the internet, it is recommended that you always conduct your own investigations. This includes buying any products or services offered or sold as part of, or through, the Service.
+
+Unless we have stated otherwise, you should always assume that when products or services are made reference to as part of the Service, they are made because there exists a material connection between Just Talk Life and the providers of the products and services displayed. It should be noted that this is not always the case.
+
+Where extracts have been displayed from third party sources or content has been generated and posted by a third-party source (i.e., Content Providers, User Generated Content, etc.), these are in no way indicative of any kind of verifiable result, opinion, recommendation or otherwise. You are strongly cautioned to conduct your own due diligence prior to relying on such sources.
+
+You understand that by using the Service, you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language. Nevertheless, you agree to use the Service at your sole risk and that Just Talk Life shall have no liability to you for content that may be found to be offensive, indecent, or objectionable. Content descriptions are provided for convenience, and you acknowledge and agree that Just Talk Life does not guarantee their accuracy. If you are a consumer in the EEA (European Economic Area), we do not exclude or limit any liability for gross negligence, intent, or death or personal injury caused by our negligence or willful misconduct.
+
+**17. OTHER IMPORTANT PROVISIONS**
+
+(a) Use of the Service is unauthorized in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this Section 17.
+
+(b) You shall not use the Service in any manner contrary to local, state or federal law. Just Talk Life expressly disclaims any and all responsibility or liability for any action by you that is contrary to such law(s) by you and reserves the right to terminate your Service immediately upon notice of your failure to comply with any such local, state or federal law.
+
+(c) Our performance of this Agreement is subject to existing laws and legal process, and nothing contained in this Agreement is in derogation of our right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Service or information provided to or gathered by us with respect to such use.
+
+(d) If any part of this Agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Agreement shall continue in effect.
+
+(e) No failure or delay in enforcing any provision, exercising any option or requiring performance, shall be construed to be a waiver of that or any other right in connection with this Agreement.
+
+(f) You may not assign your rights under this Agreement without our prior written permission and any attempt by you to do so shall be void from inception.
+
+(g) This Agreement, together with our **Privacy Policy** and any other rules, regulations, procedures and policies which we refer to and which are hereby incorporated herein by this reference, constitutes the entire agreement between you and us with respect to the Service and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between you and us with respect to the Service.
+
+(h) Any provision which must survive in order to allow us to enforce its meaning shall survive the termination of this Agreement; provided, however, no action arising out of this Agreement or your use of the Service, regardless of form or the basis of the claim, may be brought by you more than one (1) year after the cause of action has arisen (or if multiple causes, from the date the first such cause arose) and you hereby waive any longer statute of limitations that may be permitted by law.
+
+(i) A printed version of this Agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+
+**18. TERMINATION**
+
+Just Talk Life may terminate this Agreement, restrict, suspend or terminate your use of the Service immediately and without notice or liability, if you violate, breach or fail to comply with this Agreement in any way, and it will not limit any other rights or remedies which are available to us. Without limitation of any other provisions hereof regarding termination, we reserve the right to terminate your use of the Service, without cause, upon reasonable notice.
+
+You may terminate this Agreement by ceasing to use the Service. Termination is your sole right and exclusive remedy if you are not satisfied with the Service. Termination of this Agreement shall not relieve you of any obligations to pay accrued charges, if applicable.
+
+**19. CHANGES OR MODIFICATIONS**
+
+We reserve the right to add, delete, change or modify parts of this Agreement at our sole discretion and at any time without notice or liability to you. If we do this, we will post the changes to the Agreement on this page and will indicate the effective date of the Agreement at the bottom of the page. It is important for you to refer to this Agreement from time to time to make sure that you are aware of any additions, revisions, or modifications that we may have made. Your continued use of the Service constitutes your acceptance of any new terms and conditions.
+
+**20. ADDITIONAL INFORMATION**
+
+Additional information about Just Talk Life can be found at https://legal.justtalklife.com/terms.
+
+**Last updated in June 3rd, 2021**
