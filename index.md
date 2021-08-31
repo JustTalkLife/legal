@@ -1,5 +1,5 @@
 ---
-title: JustTalkLife Terms of Service
+title: JustTalkLife
 ---
 
 **TERMS OF SERVICE**
